@@ -1,5 +1,10 @@
 Rougelike-Procedual-Cave-Generator
 ==================================
+ * Developed by Adam Rakaska 
+ * 
+ *  http://www.csharpprogramming.tips/2013/07/Rouge-like-dungeon-generation.html
+ *  
+ *    http://www.adam-rakaska.codes
 
 This software provides procedural content generation of cave-like dungeons/maps for rouge-like games using what is known as the Cellular Automata method. 
 
