@@ -1,0 +1,43 @@
+Preamble: This Agreement, signed on Nov 29, 2014 [hereinafter: Effective Date] governs the relationship between The End User, a private person, (hereinafter: Licensee) and Adam Rakaska, a private person whose principal place of business is Adam Rakaska, CO, United States (Hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using [Procedual Cave-Like Dungeon Generator Using the Cellular Automata Method] (hereinafter: The Software) created and owned by Licensor, as detailed herein
+
+License Grant: Licensor hereby grants Licensee a Sublicensable, Non-assignable & non-transferable, Commercial with terms, Including the rights to distribute derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
+
+Limited: Licensee may use Software for the purpose of: Running Software on Licensee’s Website[s] and Server[s]; Allowing 3rd Parties to run Software on Licensee’s Website[s] and Server[s]; Publishing Software’s output to Licensee and 3rd Parties; Distribute verbatim copies of Software’s output (including compiled binaries); Modify Software to suit Licensee’s needs and specifications.
+
+Non Assignable & Non-Transferable: Licensee may not assign or transfer his rights and duties under this license.
+
+Commercial use allowed with restrictions: Commercial use may be granted by the original author (Adam J. Rakaska) only by a typed or hand-written letter or contract that has been sent by Certified USPS First Class Postage and has been signed by the original author. If every effort has been made to contact the original author, and the Licencee remains unable to contact the author for express written permission for commercial use of The Software, then no commercial use of The Software, or its source code, shall be granted or permitted. In the event that the original owner is not longer living or is otherwise unable to give permission for commercial use of The Software to the Licencee, then no commercial use shall be granted or permitted by default.
+
+Including the right to Distribute Derivative Works: Licensee may create and distribute derivative works based on Software, including amending Software’s source code, modifying it, integrating it into a larger work or removing portions of Software, as long as credit to the Licensor is granted and that redistribution is made under the terms of this license.
+
+With Attribution Requirements﻿: The Licensee MUST attribute the invention and creation of The Software and it's code to the original author by his full name. The Licensee must also attribute the source of The Software as being the URL http://www.csharpprogramming.tips/2013/07/Rouge-like-dungeon-generation.html and both attributions must appear unchanged and unaltered.
+
+[Multi-]Site: Licensee may use Software on unlimited server[s] and unlimited website[s], for Licensee’s websites only
+
+Term & Termination: The Term of this license shall be until terminated. Licensor may terminate this Agreement, including Licensee’s license in the case where Licensee :
+ became insolvent or otherwise entered into any liquidation process; or
+ exported The Software to any jurisdiction where licensor may not enforce his rights under this agreements in; or
+ Licensee was in breach of any of this license's terms and conditions and such breach was not cured, immediately upon notification; or
+ Licensee in breach of any of the terms of clause 2 to this license; or
+ Licensee otherwise entered into any arrangement which caused Licensor to be unable to enforce his rights under this License.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Support: Software is provided under an AS-IS basis and without any support, updates or maintenance. Nothing in this Agreement shall require Licensor to provide Licensee with support or fixes to any bug, failure, mis-performance or other defect in The Software.
+
+No-Warranty: The Software is provided without any warranty; Licensor hereby disclaims any warranty that The Software shall be error free, without defects or code which may cause damage to Licensee’s computers or to Licensee, and that Software shall be functional. Licensee shall be solely liable to any damage, defect or loss incurred as a result of operating software and undertake the risks contained in running The Software on License’s Server[s] and Website[s].
+ 
+ Prior Inspection: Licensee hereby states that he inspected The Software thoroughly and found it satisfactory and adequate to his needs, that it does not interfere with his regular operation and that it does meet the standards and scope of his computer systems and architecture. Licensee found that The Software interacts with his development, website and server environment and that it does not infringe any of End User License Agreement of any software Licensee may use in performing his services. Licensee hereby waives any claims regarding The Software's incompatibility, performance, results and features, and warrants that he inspected the The Software.
+ 
+ No Refunds: Licensee warrants that he inspected The Software according to clause 8.3 and that it is adequate to his needs. Accordingly, as The Software is intangible goods, Licensee shall not be, ever, entitled to any refund, rebate, compensation or restitution for any reason whatsoever, even if The Software contains material flaws.
+ 
+ Indemnification: Licensee hereby warrants to hold Licensor harmless and indemnify Licensor for any lawsuit brought against it in regards to Licensee’s use of The Software in means that violate, breach or otherwise circumvent this license, Licensor's intellectual property rights or Licensor's title in The Software. Licensor shall promptly notify Licensee in case of such legal action and request Licensee’s consent prior to any settlement in relation to such lawsuit or claim.
+ 
+ Governing Law, Jurisdiction: Licensee hereby agrees not to initiate class-action lawsuits against Licensor in relation to this license and to compensate Licensor for any legal fees, cost or attorney fees should any claim brought by Licensee against Licensor be denied, in part or in full.
+
