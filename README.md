@@ -1,12 +1,12 @@
-Rougelike-Procedual-Cave-Generator
-==================================
- * Developed by Adam Rakaska 
- * 
- *  http://www.csharpprogramming.tips/2013/07/Rouge-like-dungeon-generation.html
- *  
- *    http://www.adam-rakaska.codes
+# Rougelike-Procedual-Cave-Generator
 
-This software provides procedural content generation of cave-like dungeons/maps for rouge-like games using what is known as the Cellular Automata method. 
+![Screenshot](http://burningbunny.webs.com/ScreenShots/DungeonGenerator.png)
+
+==================================
+
+ http://www.csharpprogramming.tips/2013/07/Rouge-like-dungeon-generation.html
+ 
+  This software provides procedural content generation of cave-like dungeons/maps for rouge-like games using what is known as the Cellular Automata method. 
 
   To understand what I mean by cellular automata method, imagine Conway's Game of Life. Many algorithms use what is called the '4-5 method', which means a tile will become a wall if it is a wall and 4 or more of its nine neighbors are walls, or if it is not a wall and 5 or more neighbors are walls. I start by filling the map randomly with walls or space, then visit each x/y position iteratively and apply the 4-5 rule. Usually this is preceded with 'seeding' the map by randomly filling each cell of the map with a wall or space, based on some weight (say, 40% of the time it chooses to place a wall). Then the automata step is applied multiple times over the entire map, precipitating walls and subsequently smoothing them. About 3 rounds is all that is required.
 
