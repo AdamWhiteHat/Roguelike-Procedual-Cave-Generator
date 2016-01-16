@@ -1,6 +1,6 @@
 # Rougelike-Procedual-Cave-Generator
 
-![Screenshot](http://burningbunny.webs.com/ScreenShots/DungeonGenerator.png)
+![Screenshot](https://github.com/AdamRakaska/Rougelike-Procedual-Cave-Generator/blob/master/Rougelike-Cave-Generator.png)
 
 ==================================
 
