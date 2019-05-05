@@ -1,10 +1,10 @@
 # Roguelike-Procedual-Cave-Generator
 
-![Screenshot](https://github.com/AdamRakaska/Roguelike-Procedual-Cave-Generator/blob/master/Roguelike-Cave-Generator.png)
+![Screenshot](https://github.com/AdamWhiteHat/Roguelike-Procedual-Cave-Generator/blob/master/Roguelike-Cave-Generator.png)
 
 ==================================
 
- http://www.csharpprogramming.tips/2013/07/Rouge-like-dungeon-generation.html
+ https://csharpcodewhisperer.blogspot.com2013/07/Rouge-like-dungeon-generation.html
  
   This software provides procedural content generation of cave-like dungeons/maps for rogue-like games using what is known as the Cellular Automata method. 
 

@@ -2,9 +2,8 @@
  * Automata procedual dungeon generation proof-of-concept
  *
  *
- * Developed by Adam Rakaska 
- *  http://www.csharpprogramming.tips
- *    http://www.adam-rakaska.codes
+ * Developed by Adam White 
+ *  https://csharpcodewhisperer.blogspot.com
  * 
  * 
  */
